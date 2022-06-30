@@ -1,9 +1,9 @@
 # React приложение с использованием API 
 ## Стэк - React, JS, HTML, CSS
 ### Разработчик:
-- [Ригина П.](https://github.com/riginapapakhina)
+- [Ригина П.]
 
-Приложение создано в рамках работы над заданиями курса Ивана Петриченко ["Полный курс по JavaScript + React - с нуля до результата"](https://www.udemy.com/course/javascript_full/)
+Приложение создано в рамках работы над заданиями курса Ивана Петриченко ["Полный курс по JavaScript + React - с нуля до результата"]
 
 ### Приложение позволяет пользователю:
 - Получить информацию о рандомно выбранном персонаже комиксов 
@@ -13,18 +13,21 @@
 #
 ### `Получение информации о рандомно выбранном персонаже комиксов`
 
-![screenshot](gifs/randomChar.gif)
+![randomCharacter](gifs/randomChar.gif)
 #
 ### `Просмотр списка персонажей комиксов и выбор одного из них`
 
-![screenshot](gifs/charInfo.gif)
+![chaInformation](gifs/charInfo.gif)
 #
 ### `Прокрутка списка персонажей вниз и загрузка дополнительных персонажей`
  
-![screenshot](gifs/loadMore.gif)
+![loadMore](gifs/loadMore.gif)
 #
 ### `Получение сообщения об ошибке`
  
-![screenshot](gifs/errorMessage.gif)
+![errorMessage](gifs/errorMessage.gif)
 
 
+
+[Ригина П.]: https://github.com/riginapapakhina
+["Полный курс по JavaScript + React - с нуля до результата"]: https://www.udemy.com/course/javascript_full/
